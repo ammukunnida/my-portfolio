@@ -19,7 +19,7 @@ function Contact(){
       <div className="contactcontainer">
       <div className="contactinfo">
         <h1>Contact Me</h1>
-        <p>Let's <span className="highlight">Connect</span> & <span className="highlight">Collabrate</span></p>
+        <p>Let's <span className="highlight">Connect</span>&<span className="highlight">Collabrate</span></p>
         
         <div className="contactdetails">
           <div className="contactitem">
