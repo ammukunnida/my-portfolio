@@ -8,10 +8,10 @@ function Home() {
         <div className="logo-head"><span>Anaswara</span></div>
         <div className="nav-items">
         <div className="item"><a href='/'>Home</a></div>
-        <div className="item"><a href='/'>About</a></div>
+        <div className="item"><a href='/about'>About</a></div>
           <div className="item">Projects</div>
           <div className="item">Vision</div>
-          <div className="item"><a href='/'>Contact</a></div>
+          <div className="item"><a href='/contact'>Contact</a></div>
         </div>
       </nav>
       <section className="hero">
