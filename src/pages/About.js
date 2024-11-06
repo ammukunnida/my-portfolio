@@ -18,6 +18,9 @@ function About() {
         </div>
       </nav>
       <section className='education'>
+        <h1> About Me</h1>
+        <img src="https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" className='about-img'></img>
+        <p className='about-p'>I'm dedicated in building intuitive and high-performance mobile applications. With a deep understanding of Android frameworks and a passion for crafting seamless user experiences. With a deep understanding of Android frameworks and a passion for crafting seamless user experiences.</p>
         <h1>Educational Qualifications</h1>
 
         

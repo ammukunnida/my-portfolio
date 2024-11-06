@@ -381,6 +381,19 @@ transition: background-color 0.3s ease;
 .contactform button:hover {
 background-color:rgb(68, 59, 72);
 }
+.about-img{
+  width:250px;
+  height: 250px;
+  border-radius: 50%;
+}
+.about-p{
+  font-family: cursive;
+  font-size: 20px;
+  align-items: center;
+}
+
+
+
 
 
 
