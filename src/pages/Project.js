@@ -15,11 +15,31 @@ function Project() {
         </nav>
           {/* -- Education item -- */}
           <div className='edu-item flex-box'>
-          <img src='https://www.istockphoto.com/photo/man-taking-photo-at-tea-plantations-gm949396238-259169448'></img>
+            <h1>PROJECTS</h1>
+          <img src='https://www.keralatourism.org/responsible-tourism/static_banner/Village%20Life%20Experience_31082022082718.jpg'className='project-img'></img>
           <div className='about-right'>
           <h1>Village Tourism</h1>
-          <h2>MSc. Computer Science (2024 - Present)</h2>
-          <p>I am currently doing my Post Graduation in Computer Science from Karyavattam Campus, Trivandrum</p>
+          <p>Our website provides some special features such as tourism spot locating fair charge,taxi availability</p>
+           <p> secure stay homes, homely meals etc.Our website more prefer village oriented tourism with less economical features.</p>
+          </div>
+        </div>
+        <div className='edu-item flex-box'>
+        <img src='https://www.zippyops.com/api/image-generate-tn-request/28571?finded 'className='project-img'></img>
+          <div className='about-right'>
+          <h1>Cloud security using hybrid cryptography</h1>
+          
+          <p>This project proposes a system that aims to enhance cloud security</p>
+          <p>through the utilization of hybrid cryptography algorithm.</p>
+          </div>
+        </div>
+        <div className='edu-item flex-box'>
+          <h1>INTERNSHIPS</h1>
+        <img src=' 'className='project-img'></img>
+          <div className='about-right'>
+          <h1>Cloud security using hybrid cryptography</h1>
+          
+          <p>This project proposes a system that aims to enhance cloud security</p>
+          <p>through the utilization of hybrid cryptography algorithm.</p>
           </div>
         </div>
         {/* -- end -- */}
