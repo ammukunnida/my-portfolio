@@ -1,7 +1,8 @@
 import '../App.css';
 function Project() {
     return (
-      <div className="Project">
+    <div>
+        <div className="Project">
         
         <nav className="nav-bar-container make-sticky">
           <div className="logo-head"><span>Anaswara</span></div>
@@ -13,7 +14,7 @@ function Project() {
             <div className="item"><a href='/contact'>Contact</a></div>
           </div>
         </nav>
-          {/* -- Education item -- */}
+          
           <div className='edu-item flex-box'>
             <h1>PROJECTS</h1>
           <img src='https://www.keralatourism.org/responsible-tourism/static_banner/Village%20Life%20Experience_31082022082718.jpg'className='project-img'></img>
@@ -34,15 +35,24 @@ function Project() {
         </div>
         <div className='edu-item flex-box'>
           <h1>INTERNSHIPS</h1>
-        <img src=' 'className='project-img'></img>
+        <img src='https://icfoss.in/get-image/projects/1579764682.jpeg 'className='project-img'></img>
           <div className='about-right'>
-          <h1>Cloud security using hybrid cryptography</h1>
+          <h1>Machine Learning through Python</h1>
           
-          <p>This project proposes a system that aims to enhance cloud security</p>
-          <p>through the utilization of hybrid cryptography algorithm.</p>
+          <p>Participated in the 3 day Residential Camp conducted by ICFOSS, Trivandrum </p>
           </div>
         </div>
-        {/* -- end -- */}
+        <div className='edu-item flex-box'>
+        <img src='https://scontent.fmaa8-1.fna.fbcdn.net/v/t39.30808-6/434197357_923195646482722_3217987203619282804_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Wsf08osS7ggQ7kNvgGJ1DAW&_nc_zt=23&_nc_ht=scontent.fmaa8-1.fna&_nc_gid=Av1BViRpu4A0K2GU-WjWu2i&oh=00_AYC7gmZRLyuLt89dYmdbCG0Jj_7mAXE7QaxfnSYIB3jvcg&oe=6733BC6A 'className='project-img'></img>
+          <div className='about-right'>
+          <h1>Python Workshop</h1>
+          
+          <p>Participated in One Day Workshop on Python conducted by Zoople Technology</p>
+          
+          </div>
+        </div>
+        
+        </div>
         <section class="footer">
       <div class="footer-row">
       <div class="footer-col">
@@ -87,6 +97,7 @@ function Project() {
       </div>
       </section>
         </div>
+    
     );
 
     
