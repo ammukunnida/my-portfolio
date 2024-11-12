@@ -20,7 +20,7 @@ function Home() {
          <div className="l-item">
           <h1>I'm Anaswara M A</h1>
           <h2>I'm a <span>Front-End Developer</span></h2>
-          <p>I'm dedicated in building intuitive and high-performance mobile applications. With a deep understanding of Android frameworks and a passion for crafting seamless user experiences. With a deep understanding of Android frameworks and a passion for crafting seamless user experiences.</p>
+          <p>Welcome to my portfolio!. I am a passionate  front-end developer  with a focus on building clean, responsive, and user-friendly websites and web applications.</p>
           <a href="#">My Resume</a>
         </div>
         </div>
