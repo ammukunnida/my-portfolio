@@ -50,6 +50,14 @@ function About() {
           <p>I have completed my Higher Secondary Education from Government Higher Secondary School, Kalanjoor</p>
           </div>
         </div>
+        <div className='edu-item flex-box'>
+          <h1> SKILLS</h1>
+          <img src='https://verpex.com/assets/uploads/images/blog/Basic-HTML-Codes-for-Websites.webp?v=1691760654' className='about-img'></img>
+          <div className='about-right'>
+          <h2> HTML</h2>
+     
+          </div>
+        </div>
 
 
         </section>

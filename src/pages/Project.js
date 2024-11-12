@@ -25,7 +25,7 @@ function Project() {
           </div>
         </div>
         <div className='edu-item flex-box'>
-        <img src='https://www.zippyops.com/api/image-generate-tn-request/28571?finded 'className='project-img'></img>
+        <img src='https://www.zippyops.com/api/image-generate-tn-request/28571?finded'className='project-img'></img>
           <div className='about-right'>
           <h1>Cloud security using hybrid cryptography</h1>
           
