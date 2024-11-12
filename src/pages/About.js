@@ -54,9 +54,16 @@ function About() {
         </div>
         <div className='edu-item flex-box'>
           <h1> SKILLS</h1>
-          <img src='https://verpex.com/assets/uploads/images/blog/Basic-HTML-Codes-for-Websites.webp?v=1691760654' className='about-img'></img>
+          <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQll55NQmw0Z7Nj1Ue-PJ1w2UH-WA0tkXz4qA&s' className='about-img'></img>
           <div className='about-right'>
           <h2> HTML</h2>
+     
+          </div>
+        </div>
+        <div className='edu-item flex-box'>
+          <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png' className='about-img'></img>
+          <div className='about-right'>
+          <h2> Python</h2>
      
           </div>
         </div>
