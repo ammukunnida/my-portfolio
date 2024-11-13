@@ -24,8 +24,6 @@ function About() {
          
         
         <h1>Educational Qualifications</h1>
-
-        
         <div className='edu-item flex-box'>
         <img src='https://d2lk14jtvqry1q.cloudfront.net/media/large_University_of_Kerala_Kerala_University_96cd13928f_5c26665bba.png'></img>
           <div className='about-right'>
@@ -44,6 +42,7 @@ function About() {
           <p>I have completed my Under Graduation in Computer Science from College of Applied Science ,Adoor </p>
           </div>
         </div>
+
         <div className='edu-item flex-box'>
           <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnHLmpRKy66B6fUtScsFNmca1XemBaCwLQbA&s'></img>
           <div className='about-right'>
@@ -52,14 +51,18 @@ function About() {
           <p>I have completed my Higher Secondary Education from Government Higher Secondary School, Kalanjoor</p>
           </div>
         </div>
+
+        <h1> SKILLS</h1>
+        <div className="grid">
+          
         <div className='edu-item flex-box'>
-          <h1> SKILLS</h1>
+         
           <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQll55NQmw0Z7Nj1Ue-PJ1w2UH-WA0tkXz4qA&s' className='about-img'></img>
           <div className='about-right'>
           <h2> HTML</h2>
-     
           </div>
         </div>
+        
         <div className='edu-item flex-box'>
           <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png' className='about-img'></img>
           <div className='about-right'>
@@ -67,7 +70,23 @@ function About() {
      
           </div>
         </div>
-
+        <div className='edu-item flex-box'>
+          <img src='https://pngimg.com/uploads/php/php_PNG23.png' className='about-img'></img>
+          <div className='about-right'>
+          <h2> PHP</h2>
+     
+          </div>
+        </div>
+        <div className='edu-item flex-box'>
+          <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVUnM-QqMQPiLRw8TyVTDp-KQbq08ji43VA&s' className='about-img'></img>
+          <div className='about-right'>
+          <h2> React</h2>
+     
+          </div>
+        </div>
+        
+        </div>
+        
 
         </section>
       <section class="footer">

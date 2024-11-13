@@ -395,6 +395,13 @@ background-color:rgb(68, 59, 72);
     width: 200px;
     height: 200px;
   }
+  .grid{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-left: 250px;
+    margin-right: 200px;
+  }
+  
 
 
 
