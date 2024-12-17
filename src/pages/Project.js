@@ -43,7 +43,7 @@ function Project() {
           </div>
         </div>
         <div className='edu-item flex-box'>
-        <img src='https://scontent.fmaa8-1.fna.fbcdn.net/v/t39.30808-6/434197357_923195646482722_3217987203619282804_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Wsf08osS7ggQ7kNvgGJ1DAW&_nc_zt=23&_nc_ht=scontent.fmaa8-1.fna&_nc_gid=Av1BViRpu4A0K2GU-WjWu2i&oh=00_AYC7gmZRLyuLt89dYmdbCG0Jj_7mAXE7QaxfnSYIB3jvcg&oe=6733BC6A 'className='project-img'></img>
+        <img src='https://avivdigital.in/wp-content/uploads/2023/02/Zoople-Technologies-1.png 'className='project-img'></img>
           <div className='about-right'>
           <h1>Python Workshop</h1>
           
