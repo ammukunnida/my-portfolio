@@ -20,7 +20,10 @@ function About() {
       <section className='education'>
         <h1> About Me</h1>
         <img src="https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" className='about-img'></img>
-        <p className='about-p'> I am a passionate  front-end developer  with a focus on building clean, responsive, and user-friendly websites and web applications.</p>
+        <p className='about-p'> I am a passionate 
+          front-end developer with a focus on </p>
+          <p className='about-p'>building clean, responsive, and user-friendly interfaces that are both functional and visually appealing websites and web applications.</p> 
+          <p className='about-p'>I'm always learning new techniques to improve my skills and stay up to date with the latest web development trends.</p>
          
         
         <h1>Educational Qualifications</h1>

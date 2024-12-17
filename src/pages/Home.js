@@ -20,8 +20,8 @@ function Home() {
          <div className="l-item">
           <h1>I'm Anaswara M A</h1>
           <h2>I'm a <span>Front-End Developer</span></h2>
-          <p>Welcome to my portfolio!. I am a passionate  front-end developer  with a focus on building clean, responsive, and user-friendly websites and web applications.</p>
-          <a href="#">My Resume</a>
+          <p>Welcome to my portfolio!. I am a passionate  front-end developer  with a focus on building clean, responsive, and user-friendly interfaces that are both functional and visually appealing websites and web applications. I'm always learning new techniques to improve my skills and stay up to date with the latest web development trends.</p>
+          <a href="/resume">My Resume</a>
         </div>
         </div>
         </section>
